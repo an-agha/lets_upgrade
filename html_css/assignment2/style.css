@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+}
+div{
+    background-color: gray;
+    font-size: 25px;
+    height: 100vh;
+}
+#para3{
+    color: rgb(102, 51, 17);
+   padding-bottom: 20px; 
+}

@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: rgb(0,100,250);
+    font-size: 100px;
+    text-align: center;
+}
+
+.picture{
+    width: 100%;
+    height: 50vh;
+}
+.main_child{
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    -ms-flex-direction: row;
+}
+.child{
+    width: 20%;
+    height: 100%;
+    margin: 2px;
+}
+
+.audio{
+    background-color:rgb(109, 193, 241); 
+    padding: 20px;
+    display: flex;
+    -ms-flex-direction: row;
+}
+
+.song{
+    padding: 30px 50px;
+}
+h4{
+    margin-bottom: 5px;
+}
+
+.video{
+    background-color: rgb(109, 193, 241); 
+    display: flex;
+    flex-direction: row;
+}
+.vid{
+    margin-left: 3vw;
+    padding: 20px;
+}
