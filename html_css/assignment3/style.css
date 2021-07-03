@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+    width: 100%;
+    height: 30vh;
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.child{
+    width: 15%;
+    height: 20vh;
+    background-color: red;
+}
+.main{
+    width: 100%;
+    height: 30vh;
+    background-color: black;
+    margin-top: 20vh;
+}
+.main_child{
+    width: 20%;
+    height: 20vh;
+    background-color: gray;
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 5vh 2.3%;
+}
